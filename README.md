@@ -29,7 +29,7 @@ Handwritten digit recognition is an important benchmark task in computer vision.
 # How to use?
 Validation of model can be performed using user handwritten digit image which can be captured, preprocessed and given to the SVM Handwritten digit recog model using handwritten image webcam-opencv-digits file.
 
-# Contribute
+# Contribute 👨‍👨‍👧‍👦
 Thanks for taking the time to contribute!
 
 The following is a set of guidelines for contributing to Handwritten Digit Recognition. These are just guidelines, not rules, so use your best judgement and feel free to propose changes to this document in a pull request.
