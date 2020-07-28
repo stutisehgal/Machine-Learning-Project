@@ -36,7 +36,7 @@ The following is a set of guidelines for contributing to Handwritten Digit Recog
 
 If you have any questions, open an issue.
 
-# Issue   <img src="https://img.shields.io/github/issues/stutisehgal/Machine-Learning-Project">
+## Issue   <img src="https://img.shields.io/github/issues/stutisehgal/Machine-Learning-Project">
 Ensure the bug was not already reported by searching on GitHub under issues. If you're unable to find an open issue addressing the bug, open a new issue.
 
 Write detailed information.
@@ -48,7 +48,7 @@ The expected behavior (or what is wrong).
 Screenshots for issues.
 The operating system.
 
-# Pull Requests
+## Pull Requests
 Pull Requests are always welcome.
 
 # License
