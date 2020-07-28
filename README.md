@@ -13,7 +13,7 @@ The model predictions were then made using the testing dataset file.
 Handwritten digit recognition is an important benchmark task in computer vision. Handwritten character recognition is one of the practically important issues in pattern recognition applications. The applications of digit recognition includes in postal mail sorting, bank check processing, form data entry, etc.
 
 # Screenshots
-<img src="">
+<img src="opencv_mnist_0.png">
 
 # Features
 1️⃣ SVM Classifier ( Rbf Kernel)
