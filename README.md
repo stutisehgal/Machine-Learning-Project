@@ -58,4 +58,4 @@ Pull Requests are always welcome.
 # License
 MIT © Stuti Sehgal
 This project is licensed under the MIT License - see the LICENSE.md file for details
-https://img.shields.io/github/license/stutisehgal/Machine-Learning-Project?style=for-the-badge
+<img src = "https://img.shields.io/github/license/stutisehgal/Machine-Learning-Project?style=for-the-badge">
