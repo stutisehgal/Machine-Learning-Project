@@ -56,6 +56,8 @@ The operating system.
 Pull Requests are always welcome.
 
 # License
+<img src = "https://img.shields.io/github/license/stutisehgal/Machine-Learning-Project?style=plastic">
+
 MIT © Stuti Sehgal
 This project is licensed under the MIT License - see the LICENSE.md file for details
-<img src = "https://img.shields.io/github/license/stutisehgal/Machine-Learning-Project?style=for-the-badge">
+
