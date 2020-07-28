@@ -55,4 +55,5 @@ Pull Requests are always welcome.
 <img src = "https://img.shields.io/github/license/stutisehgal/Machine-Learning-Project?style=plastic">
 
 MIT © Stuti Sehgal
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
