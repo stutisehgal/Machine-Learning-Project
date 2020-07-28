@@ -38,18 +38,13 @@ If you have any questions, open an issue.
 # Issue
 Ensure the bug was not already reported by searching on GitHub under issues. If you're unable to find an open issue addressing the bug, open a new issue.
 
-Write detailed information
+Write detailed information.
 Detailed information is very helpful to understand an issue.
 
 For example:
 How to reproduce the issue, step-by-step.
-
 The expected behavior (or what is wrong).
-
-Screenshots for GUI issues.
-
-The application version.
-
+Screenshots for issues.
 The operating system.
 
 # Pull Requests
@@ -60,4 +55,3 @@ Pull Requests are always welcome.
 
 MIT © Stuti Sehgal
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
